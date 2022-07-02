@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e0499468e0e3794a86ec2be42f960bd, type: 3}
+  m_Name: SO_SleepAction
+  m_EditorClassIdentifier: Assembly-CSharp::SO_Sleep
+  cost: 1
+  precondition_bedBuilt: 1
+  precondition_Energy: 75
+  precondition_PatienceRate: 2
+  effect_Energy: 50
+  effect_Patience: 2

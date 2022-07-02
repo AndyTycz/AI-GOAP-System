@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: f6997ea18f0af4f4cb5939e0f94bf22a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _T_Foliage_Leaves_D: {fileID: 2800000, guid: e6356488613606949b18add7c54a7fdf,
+      type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

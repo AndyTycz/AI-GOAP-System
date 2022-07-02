@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e0e43082594aadf4bbd03d39b128030d
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Rocks_Normal: {fileID: 2800000, guid: 8632ff75c26c1464194b5e29e4c03e97, type: 3}
+  - _Rocks_Base: {fileID: 2800000, guid: ad83d640fd4d39246b23f815f85bd2a8, type: 3}
+  - _Rocks_ORM: {fileID: 2800000, guid: ce35c5a8d8d920c49ac0c7f50b48e3ea, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
